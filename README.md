@@ -2,7 +2,7 @@
 
 **Pharma Commercial Intelligence · SCM Digitization · Data & AI**
 
-MBA (Pharmaceutical Management). I build analytics and AI tools for pharmaceutical commercial and supply-chain work. The numbers come from tested, deterministic code, and AI is used to route, explain and refuse, not to invent figures.
+Pharma | Strategy, Analytics & AI | Digital Transformation | Python • SQL • Power BI | MBA Pharmaceutical Management
 
 ---
 
